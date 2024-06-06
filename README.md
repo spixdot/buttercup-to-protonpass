@@ -6,8 +6,7 @@ This repository contains a Python script to convert CSV exports from the Butterc
 
 - Converts Buttercup CSV exports to Proton Pass compatible CSV format.
 - Handles multiline entries and special characters.
-- Combines additional fields (`id`, `Pseudo`, `Email`, `pseudo`, `Code`) into the notes section.
-- Counts and displays the number of entries in both input and output files.
+- Combines additional fields (, `Pseudo`, `Code` `extra-note`) into the notes section.
 
 ## Usage
 
